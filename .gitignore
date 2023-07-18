@@ -35,7 +35,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # ENV FILE
-/apps/reservations/.env
-/apps/auth/.env
-/apps/payments/.env
-/apps/notifications/.env
+**/.env
